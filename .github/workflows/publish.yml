@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
   release:
     types: [published]
+  workflow_dispatch: {}
 
 env:
   # <<< CHANGE this to your Docker Hub repo if needed
