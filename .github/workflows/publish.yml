@@ -8,7 +8,7 @@ on:
 
 env:
   # <<< CHANGE this to your Docker Hub repo if needed
-  IMAGE_NAME: ricolindsaymattis/shap-e-cli
+  IMAGE_NAME: dockerrklm123/shap-e-cli
 
 jobs:
   push-latest:
