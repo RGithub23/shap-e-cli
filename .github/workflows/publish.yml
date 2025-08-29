@@ -10,6 +10,7 @@ on:
 env:
   IMAGE_NAME: dockerrklm123/shap-e-cli
 
+
 jobs:
   push-latest:
     if: github.ref == 'refs/heads/main'
